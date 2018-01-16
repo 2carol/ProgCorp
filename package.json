@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/2carol/ProgCorp/issues"
   },
-  "homepage": "https://github.com/2carol/ProgCorp#readme"
+  "homepage": "https://github.com/2carol/ProgCorp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
